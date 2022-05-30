@@ -13,3 +13,8 @@ Thoughts : Well In todays projects, i use the simple data types, f-strings, type
 ## Day 2 - 29/05/2022:
 project : [Treasure Island](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_3/main.py)  
 Thoughts : In Today well i am busy in timepass stuff and i did today project in a hurry by 11 pm so yeah i did it... yo  :)
+
+
+## Day 3 - 30/05/2022:
+project : [Rock, Paper, Scissor Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_4/main.py)  
+Thoughts : Today i implement the rock paper scissors, here i use random module, for generate a random choice for computers, this will also goes well  :)
