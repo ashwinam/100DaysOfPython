@@ -18,3 +18,7 @@ Thoughts : In Today well i am busy in timepass stuff and i did today project in 
 ## Day 3 - 30/05/2022:
 project : [Rock, Paper, Scissor Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_4/main.py)  
 Thoughts : Today i implement the rock paper scissors, here i use random module, for generate a random choice for computers, this will also goes well  :)
+
+## Day 4 - 31/05/2022:
+project : [Password Generator](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_5/main.py)  
+Thoughts : Today i complete 5 days a streak by coding projects feeling awesome, so today i create a password generator, here i use python and the random module. :)
