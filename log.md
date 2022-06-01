@@ -22,3 +22,7 @@ Thoughts : Today i implement the rock paper scissors, here i use random module, 
 ## Day 4 - 31/05/2022:
 project : [Password Generator](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_5/main.py)  
 Thoughts : Today i complete 5 days a streak by coding projects feeling awesome, so today i create a password generator, here i use python and the random module. :)
+
+## Day 5 - 01/06/2022:
+project : [Reeborgs world](https://reeborg.ca/index_en.html)  
+Thoughts : Today i solve the game levels using programming logics such as loops and conditionals, its feel fun :)
