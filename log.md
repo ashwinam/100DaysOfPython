@@ -26,3 +26,7 @@ Thoughts : Today i complete 5 days a streak by coding projects feeling awesome, 
 ## Day 5 - 01/06/2022:
 project : [Reeborgs world](https://reeborg.ca/index_en.html)  
 Thoughts : Today i solve the game levels using programming logics such as loops and conditionals, its feel fun :)
+
+## Day 6 - 02/06/2022:
+project : [Hangman Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_7/main.py)  
+Thoughts : Today i create a fantastic game called hangman, i enjoy a lot today because logic started to make sense, happy ::))) :)
