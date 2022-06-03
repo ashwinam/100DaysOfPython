@@ -30,3 +30,7 @@ Thoughts : Today i solve the game levels using programming logics such as loops 
 ## Day 6 - 02/06/2022:
 project : [Hangman Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_7/main.py)  
 Thoughts : Today i create a fantastic game called hangman, i enjoy a lot today because logic started to make sense, happy ::))) :)
+
+## Day 7 - 03/06/2022:
+project : [Caesar Cipher](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_8/main.py)  
+Thoughts : Today i create a caesar ciphar, this programe helps to encrypt and decrypt the text message. :)
