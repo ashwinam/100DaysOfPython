@@ -34,3 +34,8 @@ Thoughts : Today i create a fantastic game called hangman, i enjoy a lot today b
 ## Day 7 - 03/06/2022:
 project : [Caesar Cipher](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_8/main.py)  
 Thoughts : Today i create a caesar ciphar, this programe helps to encrypt and decrypt the text message. :)
+
+
+## Day 8 - 04/06/2022:
+project : [Silent Bidder a.k.a bid-auction](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_9/main.py)  
+Thoughts : Today i create a silent bidder, this programe ask the user name and his bid and the highst bidder is win, feeling awesome :)
