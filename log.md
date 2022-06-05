@@ -39,3 +39,8 @@ Thoughts : Today i create a caesar ciphar, this programe helps to encrypt and de
 ## Day 8 - 04/06/2022:
 project : [Silent Bidder a.k.a bid-auction](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_9/main.py)  
 Thoughts : Today i create a silent bidder, this programe ask the user name and his bid and the highst bidder is win, feeling awesome :)
+
+
+## Day 9 - 05/06/2022:
+project : [Unique Calculator](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_10/main.py)  
+Thoughts : Today i create a Unique Calculator, this programe ask the user number as a input and it ask for math operators what operations you want to do next again a second number and after that it keep asking for input. :)
