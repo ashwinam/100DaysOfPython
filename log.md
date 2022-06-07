@@ -44,3 +44,7 @@ Thoughts : Today i create a silent bidder, this programe ask the user name and h
 ## Day 9 - 05/06/2022:
 project : [Unique Calculator](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day_10/main.py)  
 Thoughts : Today i create a Unique Calculator, this programe ask the user number as a input and it ask for math operators what operations you want to do next again a second number and after that it keep asking for input. :)
+
+## Day 10 - 07/06/2022:
+project : [Black jack game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2011/main.py)  
+Thoughts : Today i create a black jack game, it took 2 days, it covers all foundational stuff. :)
