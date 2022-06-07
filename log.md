@@ -48,3 +48,8 @@ Thoughts : Today i create a Unique Calculator, this programe ask the user number
 ## Day 10 - 07/06/2022:
 project : [Black jack game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2011/main.py)  
 Thoughts : Today i create a black jack game, it took 2 days, it covers all foundational stuff. :)
+
+
+## Day 11 - 07/06/2022:
+project : [Guessing the number](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2012/main.py)  
+Thoughts : Today i create Guess the number, but i stuck on a function logic. :)
