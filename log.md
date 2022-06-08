@@ -53,3 +53,19 @@ Thoughts : Today i create a black jack game, it took 2 days, it covers all found
 ## Day 11 - 07/06/2022:
 project : [Guessing the number](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2012/main.py)  
 Thoughts : Today i create Guess the number, but i stuck on a function logic. :)
+
+## Day 12 - 08/06/2022:
+project : [Debugging](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2013/main.py)  
+Thoughts : Today I look for the debugging skill. for doing this now i got a confidence and find a way to solve the problems.
+Here are my thoughts on debugging skill
+1. Describe the problem
+2. reproduce the bug
+3. Be the computer
+4. Fix the errors
+5. Print is the best ally
+6. Use a debugger
+7. Take a break
+8. Ask in the community or a humanoid friend
+9. run programme in a small chunks
+10. stack overflow
+    :)
