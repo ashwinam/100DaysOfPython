@@ -69,3 +69,7 @@ Here are my thoughts on debugging skill
 9. run programme in a small chunks
 10. stack overflow
     :)
+
+## Day 13 - 08/06/2022:
+project : [Higher Lower Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2014/main.py)  
+Thoughts : Today i create Higher Lower Game, and today i learn how to break bigger problems into smaller ones, and this skill is really important :)
