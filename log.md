@@ -78,3 +78,7 @@ Thoughts : Today i create Higher Lower Game, and today i learn how to break bigg
 ## Day 14 - 10/06/2022:
 project : [Coffee Machine](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2015/main.py)  
 Thoughts : Today I Create aDigital Coffee machine :)
+
+## Day 15 - 11/06/2022:
+project : [reprogram Coffee Machine](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2016/coffee_machine_oop_completed/main.py)  
+Thoughts : Today I learn oop, try out turtle and preetytable packages and reprogram the coffee machine using oop. :)
