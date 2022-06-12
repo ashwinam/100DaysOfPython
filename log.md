@@ -82,3 +82,10 @@ Thoughts : Today I Create aDigital Coffee machine :)
 ## Day 15 - 11/06/2022:
 project : [reprogram Coffee Machine](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2016/coffee_machine_oop_completed/main.py)  
 Thoughts : Today I learn oop, try out turtle and preetytable packages and reprogram the coffee machine using oop. :)
+
+## Day 16 - 12/06/2022:
+project : [Quiz Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2017/quiz_game/main.py)  
+Thoughts : Today I create a Quiz game,here I use oop concept, and open trivia database for the questions ,
+Today i get the idea of what is class and the object, class it just a place where we write the 
+blueprint for the object and object it just represent the real world entity, so object has things (attributes) and 
+object do things(methods) :)
