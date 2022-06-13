@@ -89,3 +89,7 @@ Thoughts : Today I create a Quiz game,here I use oop concept, and open trivia da
 Today i get the idea of what is class and the object, class it just a place where we write the 
 blueprint for the object and object it just represent the real world entity, so object has things (attributes) and 
 object do things(methods) :)
+
+## Day 17 - 13/06/2022:
+project : [hirst painting](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2018/main.py)  
+Thoughts : Today I tried the turtle module and build some basic shapes and painting project update by tomorrow morning, today feeling exhausted:)
