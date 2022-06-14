@@ -91,5 +91,6 @@ blueprint for the object and object it just represent the real world entity, so 
 object do things(methods) :)
 
 ## Day 17 - 13/06/2022:
-project : [hirst painting](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2018/main.py)  
-Thoughts : Today I tried the turtle module and build some basic shapes and painting project update by tomorrow morning, today feeling exhausted:)
+project : [hirst painting](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2018/hirst%20painting/main.py)  
+Thoughts : Today I tried the turtle module and build some basic shapes and hirst painting project complete,
+today feeling exhausted:)
