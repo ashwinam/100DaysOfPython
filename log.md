@@ -98,4 +98,5 @@ today feeling exhausted:)
 ## Day 18 - 14/06/2022:
 project : [Turtle Race](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2019/Turtle%20Race/main.py)  
 Thoughts : Today I create a Turtle racing game using Turtle module, here i get the idea of instance state that create a multiple objects
-and i learn about the higher order function where i did not directly call the function but rather than we pass the function as a reference (calculator app)   :)
+and i learn about the higher order function where i did not directly call the function but rather than we pass the function as a reference (calculator app) , 
+In high order function, we can pass a function as a parameter or argument inside another function.   :)
