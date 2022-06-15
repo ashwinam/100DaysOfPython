@@ -100,3 +100,8 @@ project : [Turtle Race](https://github.com/ashwinam/100DaysOfPython/blob/main/da
 Thoughts : Today I create a Turtle racing game using Turtle module, here i get the idea of instance state that create a multiple objects
 and i learn about the higher order function where i did not directly call the function but rather than we pass the function as a reference (calculator app) , 
 In high order function, we can pass a function as a parameter or argument inside another function.   :)
+
+## Day 19 - 15/06/2022:
+project : [Snake Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2020/snake%20game/main.py)  
+Thoughts : Today I am working on Snake game, today's i completed the snake body and the movement and by tomorrow probably i complete the project,
+Today's learning is how to move snake on a coordinates on x and y, just follow the snakes head, but need to review it:)
