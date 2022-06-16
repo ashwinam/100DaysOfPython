@@ -9,6 +9,10 @@ class Food(Turtle):
         self.shapesize(stretch_len=0.5, stretch_wid=0.5)
         self.color("orange")
         self.speed("fastest")
+
+        self.refresh()
+
+    def refresh(self):
         # our window is w-600 * h-600
         # so the horizontal would be -300 --------------- 300
         # vertical would be -300 ||||||||||||||||| 300
