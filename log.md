@@ -105,3 +105,8 @@ In high order function, we can pass a function as a parameter or argument inside
 project : [Snake Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2020/snake%20game/main.py)  
 Thoughts : Today I am working on Snake game, today's i completed the snake body and the movement and by tomorrow probably i complete the project,
 Today's learning is how to move snake on a coordinates on x and y, just follow the snakes head, but need to review it:)
+
+## Day 20 - 16/06/2022:
+project : [Snake Game complete version](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2020/snake%20game/main.py)  
+Thoughts : Today I Completed the snake game, what i learn today
+problem solving, oop inheritence, list and tuple slicing and learn about graphs coordinates.:)
