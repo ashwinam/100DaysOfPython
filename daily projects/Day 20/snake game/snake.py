@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-SNAKE_POSITIONS = [0, -20, -40]
+SNAKE_POSITIONS = [(0, 0),(-20, 0), (-40, 0)]
 MOVE_FORWARD = 20
 UP = 90
 DOWN = 270
@@ -16,11 +16,17 @@ class Snake:
 
     def create_snake(self):
         for snake in SNAKE_POSITIONS:
-            new_turtle = Turtle(shape="square")
-            new_turtle.color("white")
-            new_turtle.penup()
-            new_turtle.goto(x=snake, y=0)
-            self.turtle_lists.append(new_turtle)
+            self.add_snake(snake)
+
+    def add_snake(self, snake):
+        new_turtle = Turtle(shape="square")
+        new_turtle.color("white")
+        new_turtle.penup()
+        new_turtle.goto(snake)
+        self.turtle_lists.append(new_turtle)
+
+    def extend(self):
+        self.add_snake(self.turtle_lists[-1].position())
 
     def move(self):
         for turtle in range(len(self.turtle_lists) - 1, 0, -1):
