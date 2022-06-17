@@ -110,3 +110,7 @@ Today's learning is how to move snake on a coordinates on x and y, just follow t
 project : [Snake Game complete version](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2020/snake%20game/main.py)  
 Thoughts : Today I Completed the snake game, what i learn today
 problem solving, oop inheritence, list and tuple slicing and learn about graphs coordinates.:)
+
+## Day 21 - 17/06/2022:
+project : [Pong Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2022/pong%20game/main.py)  
+Thoughts : Today i made a pong game, logic is developing, more time goes on mobile :)
