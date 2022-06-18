@@ -29,7 +29,7 @@ class CarManager:
             car.forward(self.STARTING_MOVE_DISTANCE)
 
     def speed_up(self):
-        self.STARTING_MOVE_DISTANCE += 10
+        self.STARTING_MOVE_DISTANCE += 5
         print(self.STARTING_MOVE_DISTANCE)
 
 
