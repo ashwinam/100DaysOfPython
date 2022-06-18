@@ -26,7 +26,7 @@ class CarManager:
 
     def running_car(self):
         for car in self.cars:
-            car.forward(STARTING_MOVE_DISTANCE)
+            car.forward(self.car_speed)
 
     def speed_up(self):
         self.car_speed += MOVE_INCREMENT
