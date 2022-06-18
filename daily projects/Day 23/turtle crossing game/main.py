@@ -22,4 +22,14 @@ while is_game_on:
     car.create_cars()
     car.running_car()
 
+    # detect collision with cars
+    for each in car.cars:
+        if player.distance(each) < 30:
+            is_game_on = False
+
+#     check the player reached the top
+    if player.ycor() > 270:
+        player.starting_position()
+        car.speed_up()
+
 screen.exitonclick()
