@@ -114,3 +114,12 @@ problem solving, oop inheritence, list and tuple slicing and learn about graphs 
 ## Day 21 - 17/06/2022:
 project : [Pong Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2022/pong%20game/main.py)  
 Thoughts : Today i made a pong game, logic is developing, more time goes on mobile :)
+
+## Day 22 - 18/06/2022:
+project : [Turtle Crossing Game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2023/turtle%20crossing%20game/main.py)  
+Thoughts : Today I build a turtle crossing game, by my self and very happy about it, if you think by your own, it feels really amazing  :)  
+Project Desc:-
+1. turtle is going to cross the road.
+2. the cars are randomly generated and keep going from left to right.
+3. whenever the turtle reaches the top , the level increase and the car speed also increase
+4. if turtle hit by a car then Game Over.
