@@ -1,13 +1,17 @@
 from turtle import Turtle
+
 ALIGNMENT = 'center'
 FONT = ('Courier', 24, 'bold')
+
+with open("data.txt") as file:
+    HIGH_SCORE = file.read()
 
 
 class Score(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
-        self.high_score = 0
+        self.high_score = int(HIGH_SCORE)
         self.color("white")
         self.penup()
         self.goto(0, 265)
@@ -21,6 +25,8 @@ class Score(Turtle):
     def reset(self):
         if self.score > self.high_score:
             self.high_score = self.score
+            with open("data.txt", "w") as files:
+                files.write(str(self.high_score))
         self.score = 0
         self.update_score()
 
