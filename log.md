@@ -123,3 +123,7 @@ Project Desc:-
 2. the cars are randomly generated and keep going from left to right.
 3. whenever the turtle reaches the top , the level increase and the car speed also increase
 4. if turtle hit by a car then Game Over.
+
+## Day 23 - 19/06/2022:
+project : [Mail merge](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2024/mail_merge/main.py)  
+Thoughts : Today I create a script for mail merge, there i create multiple invitations using python, here i learn file system in python  :)
