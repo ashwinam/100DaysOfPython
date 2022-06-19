@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-SNAKE_POSITIONS = [(0, 0),(-20, 0), (-40, 0)]
+SNAKE_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_FORWARD = 20
 UP = 90
 DOWN = 270
@@ -24,6 +24,13 @@ class Snake:
         new_turtle.penup()
         new_turtle.goto(snake)
         self.turtle_lists.append(new_turtle)
+
+    def reset(self):
+        for tur in self.turtle_lists:
+            tur.goto(1000, 1000)
+        self.turtle_lists.clear()
+        self.create_snake()
+        self.head = self.turtle_lists[0]
 
     def extend(self):
         self.add_snake(self.turtle_lists[-1].position())
