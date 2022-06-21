@@ -131,3 +131,7 @@ Thoughts : Today I create a script for mail merge, there i create multiple invit
 ## Day 24 - 20/06/2022:
 project : [Guess state game](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2025/State_guess_game/main.py)  
 Thoughts : Today I create guess state game there i have work with, turtle, pandas module, and learn to work with csv files :)
+
+## Day 25 - 21/06/2022:
+project : [Nato Phonetic words](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2026/NATO-phonetic-alphabet/main.py)  
+Thoughts : Today I create Nato Phonetic word programme and indian state guess game, here i use pandas, list & dict comprehension, we see progress in me  :)
