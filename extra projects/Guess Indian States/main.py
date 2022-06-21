@@ -7,9 +7,6 @@ image = "india_blank_map_img.gif"
 screen.addshape(image)
 turtle.shape(image)
 
-# TODO : get the states name and there coordinates [done]
-# TODO : put the question mark on map
-
 # indian_map = {
 #     "states": ["Jammu and Kashmir", "Himachal Pradesh", "Punjab", "Uttarakhand", "Haryana", "Delhi", "Rajasthan",
 #                "Uttar Pradesh", "Bihar", "Gujarat", "Madhya Pradesh", "Jharkhand", "West Bengal",
@@ -34,5 +31,32 @@ turtle.shape(image)
 # turtle.onscreenclick(get_the_coor)
 #
 # turtle.mainloop()
+
+
+# TODO : get the states name and there coordinates [done]
+# TODO : put the question mark on map
+# TODO : check the answer guess with our csv file:
+# if it correct then put there state name on there coordinate.
+
+
+data = pandas.read_csv("indian_map.csv")
+all_states = data.states.to_list()
+print(all_states)
+
+# TODO : check the answer_guess in all_states:
+#     if it correct then put it into the map
+
+guessed_state = []
+
+while len(guessed_state) < 30:
+    answer_guess = turtle.textinput(title="Guess the state", prompt="Whats you guess?").title()
+    if answer_guess in all_states:
+        guessed_state.append(answer_guess)
+        t = turtle.Turtle()
+        t.hideturtle()
+        t.penup()
+        state = data[data.states == answer_guess]  # get the state row
+        t.goto(int(state.x), int(state.y))
+        t.write(answer_guess)
 
 screen.exitonclick()
