@@ -7,7 +7,6 @@ alphabets_data = pandas.read_csv("nato_phonetic_alphabet.csv")
 
 nato_alphabets_dict = {row.letter: row.code for index, row in alphabets_data.iterrows()}
 
-print(nato_alphabets_dict)
 
 # TODO 2. Create a list of the phonetic code words from a word that the user inputs.
 
