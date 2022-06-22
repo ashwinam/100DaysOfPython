@@ -135,3 +135,7 @@ Thoughts : Today I create guess state game there i have work with, turtle, panda
 ## Day 25 - 21/06/2022:
 project : [Nato Phonetic words](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2026/NATO-phonetic-alphabet/main.py)  
 Thoughts : Today I create Nato Phonetic word programme and indian state guess game, here i use pandas, list & dict comprehension, we see progress in me  :)
+
+## Day 26 - 22/06/2022:
+project : [miles to km](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2027/Miles%20to%20km%20converter/main.py)  
+Thoughts : Today I create GUI app miles to km using tkinter module, and other stuffs that i learn is tkinter widgets, layout, functions arguments like kwargs, args  :)
