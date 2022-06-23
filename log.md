@@ -139,3 +139,7 @@ Thoughts : Today I create Nato Phonetic word programme and indian state guess ga
 ## Day 26 - 22/06/2022:
 project : [miles to km](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2027/Miles%20to%20km%20converter/main.py)  
 Thoughts : Today I create GUI app miles to km using tkinter module, and other stuffs that i learn is tkinter widgets, layout, functions arguments like kwargs, args  :)
+
+## Day 27 - 23/06/2022:
+project : [Pomodoro](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2028/Pomodoro/main.py)  
+Thoughts : Today I Build the pomodoro app 25 min work : 5 min rest, today most time just copy and paste code, feeling exhausted :)
