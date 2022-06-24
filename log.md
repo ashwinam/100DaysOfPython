@@ -143,7 +143,3 @@ Thoughts : Today I create GUI app miles to km using tkinter module, and other st
 ## Day 27 - 23/06/2022:
 project : [Pomodoro](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2028/Pomodoro/main.py)  
 Thoughts : Today I Build the pomodoro app 25 min work : 5 min rest, today most time just copy and paste code, feeling exhausted :)
-
-## Day 28 - 24/06/2022:
-project : [Password Management](https://github.com/ashwinam/100DaysOfPython/blob/main/daily%20projects/Day%2029/Password%20Generator/main.py)  
-Thoughts : Today I Build password management app where you can store your passwords :)
